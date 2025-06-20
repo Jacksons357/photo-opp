@@ -138,8 +138,7 @@ export default function Picture() {
   }
 
   const handleFinish = () => {
-    // Voltar para a tela inicial ou fazer qualquer outra ação
-    window.location.href = '/'
+    window.location.href = '/admin'
   }
 
   // Mostrar foto final se estiver na etapa final
